@@ -1,0 +1,1 @@
+"c:\PATH\TO\R\ON\YOUR\COMPUTER\Rscript.exe" c:\PATH\TO\WALLPAPER\PROGRAM\getWall.R
